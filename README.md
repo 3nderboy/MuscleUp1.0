@@ -1,4 +1,4 @@
-# MuscleUp1.1 Testing Branch!
-MuscleUp1 vom Stand der Dinge am 24.06.2020 (BottomBar, Header, Buttons, Wabsolvieren, TopTabBar, Übung1, erste Übungen Buttons)
-Hier ist die App vom Stand 24.06.2020, 17:00 Uhr
-Bisher ist eine BottomBar, ein Header, passende Screens, Buttons, ein ''Workout absolvieren''-Screen, TopTabBar mit Übungen und Workouts, einen Übung1-Screen erstellt worden und erste Übungen-Buttons.
+# MuscleUp1.2 Testing Branch!
+MuscleUp1 vom Stand der Dinge am 22.07.2020 (BottomBar, Header, Buttons, Wabsolvieren, TopTabBar, Übung1-Screen, Übungen Buttons, Muskelmenschen)
+Hier ist die App vom Stand 22.07.2020, 17:00 Uhr (nach zweitem Telefonat mit Danilo)
+Bisher ist eine BottomBar, ein Header, passende Screens, Buttons, ein ''Workout absolvieren''-Screen, TopTabBar mit Übungen und Workouts, einen Übung1-Screen, Übungen-Buttons mit state, die Muskelmenschen-Bilder mit TouchableOpacity (noch nicht fertig) und die drei Buttons Zuhause/Hanteln/Fitness (ohne Design und Funktion) erstellt worden.
