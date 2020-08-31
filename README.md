@@ -1,5 +1,5 @@
 # MuscleUp2.8 Testing Branch!
-NUR DIE FILES, WELCHE GEÄNDERT WURDEN, WURDEN HOCHGELADEN!
+ALLE FILES HOCHGELADEN!
 31.08.2020: Erster "Publish" der App über Expo!
 MuscleUp1 vom Stand der Dinge am 31.08.2020 (BottomBar, Header, Buttons, Wabsolvieren, TopTabBar, Übung1-Screen, Übungen Buttons, Muskelmenschen, Hooks, Übungs-Screen fertig (ohne Data), Workout-Screen fertig (ohne Data), mehrere Modals (Tipps) mit eigenem Exit-Button (noch nicht fertig, Bild fehlt), Wabsolvieren-Screen nach Workout-Screen fertig, eigene Workout erstellen Screen (OwnWorkout) erstellt und funktionierendes Modal, welches neue Workouts erstellt (mithilfe von Formik und yup, mit Übungen auswählen), Feed-Screen mit bisher AsyncStorage, passenden Buttons, passender Eingabe und einem BMI-Berechner, dem Feed-Screen ein neues Design gegeben, dem Tipps-Screen ein neues Design gegeben, OwnWorkouts werden mit AsyncStorage gespeichert und können wieder gelöscht werden.
 Hier ist die App vom Stand 31.08.2020, 18:00 Uhr
