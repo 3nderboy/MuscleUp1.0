@@ -1,4 +1,4 @@
-# MuscleUp3.7 Testing Branch!
+# MuscleUp3.8 Testing Branch!
 NUR FILES WELCHE GEÄNDERT WURDEN, WURDEN HOCHGELADEN!
 31.08.2020: Erster "Publish" der App über Expo!
 07.09.2020: Zweiter "Publish" der App über Expo (um die App zu testen)!
