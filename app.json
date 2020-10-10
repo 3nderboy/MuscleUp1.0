@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "MuscleUp",
+    "slug": "muscleup",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "privacy": "unlisted",
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.miro.muscleup",
+      "buildNumber": "1.0.3",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.miro.muscleup",
+      "versionCode": 1
+    },
+    "description": "Version 1.0.3"
+  }
+}
