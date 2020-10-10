@@ -1,8 +1,37 @@
-# MuscleUp4.6 Testing Branch!
-ALLE FILES WURDEN HOCHGELADEN!
-31.08.2020: Erster "Publish" der App über Expo!
-07.09.2020: Zweiter "Publish" der App über Expo (um die App zu testen)!
-14.09.2020: Dritter "Publish" der App über Expo (um App nochmals zu testen)!
-MuscleUp1 vom Stand der Dinge am 06.10.2020 (BottomBar, Header, Buttons, Wabsolvieren, TopTabBar, Übung1-Screen, Übungen Buttons, Muskelmenschen, Hooks, Übungs-Screen fertig (ohne Data), Workout-Screen fertig (ohne Data), mehrere Modals (Tipps) mit eigenem Exit-Button, Wabsolvieren-Screen nach Workout-Screen fertig, eigene Workout erstellen Screen (OwnWorkout) erstellt und funktionierendes Modal, welches neue Workouts erstellt (mithilfe von Formik und yup, mit Übungen auswählen), Feed-Screen mit bisher AsyncStorage, passenden Buttons, passender Eingabe und einem BMI-Berechner, dem Feed-Screen ein neues Design gegeben, dem Tipps-Screen ein neues Design gegeben, OwnWorkouts werden mit AsyncStorage gespeichert und können wieder gelöscht werden, erstes Übungen-Bild wurde eingefügt, Warnung bei Profil-löschen-Button, alle Abstände in der App richtig angepasst, Bottombar verbessert und überarbeitet, alle Bilder mit Hilfe von Affinity Designer fertig erstellt und eingefügt, alle Übungen eingefügt, alle Workouts eingefügt).
-Hier ist die App vom Stand 06.10.2020, 15:30 Uhr
-Bisher ist eine BottomBar, ein Header, passende Screens, Buttons, ein ''Workout absolvieren''-Screen, TopTabBar mit Übungen und Workouts, einen Übung1-Screen, Übungen-Buttons mit state, die Muskelmenschen-Bilder mit TouchableOpacity (fertig), die drei Buttons Zuhause/Hanteln/Fitness, Screen mit den Workouts, der Workout-Screen, Workout-absolvieren-Screen fertig, mehrere Modals in horizontalem ScrollView mit einem Exit-Button bei Tipps (Modals fehlt Bild und ohne Daten), OwnWorkout-Screen mit eigenen Workouts welche man selbst erstellen kann mit Formiks/yup mit Übungen zum auswählen und einen Feed-Screen mit AsyncStorage-Daten des Users mit passenden Buttons, passender Eingabe und einem BMI-Berechner, ein neues Design beim Feed-Screen, ein neues Design beim Tipps-Screen, OwnWorkouts von createWorkouts werden mithilfe von AsyncStorage gespeichert und können auch wieder gelöscht werden, erstes Übungen-Bild wurde eingefügt, Warnung bei Profil-löschen-Button, alle Abstände in der App richtig angepasst, Bottombar richtig gemacht, alle Bilder mit Hilfe von Affinity Designer fertig erstellt und eingefügt, alle Übungen eingefügt, alle Workouts eingefügt.
+# MuscleUp-Abgabe Branch!
+10.10.2020
+In diesem Branch befindet sich mein kompletter selbst geschriebener Code meiner Fitness-App MuscleUp für meine Maturarbeit 2020. 
+
+Informationen:
+Vielen Dank an alle, welche sich diesen Code anschauen und sich Zeit nehmen, diesen zu verstehen und zu betrachten.
+Der Code, so wie er hier in diesem Branch gefunden werden kann, ist der fertige Code meiner App, welche ich für meine Maturarbeit 2020 abgeben werde.
+Deswegen sollte nur dieser Code hier betrachtet und bewertet werden, die anderen Braches habe ich zur Sicherung und für mich als Hilfe erstellt. 
+
+
+Aufbau dieses Branches:
+Welche Dateien von Code habe ich geschrieben und welche wurden von React Native oder Expo erstellt?
+
+Meine selbstgeschriebenen Dateien mit Code:
+- kompletter assets-Ordner (alle Bilder habe ich selbst mit Hilfe von Affinity Designer oder meiner Kamera erstellt, ausser die beiden Schriftarten. Diese sind von https://fonts.google.com/ heruntergeladen worden)
+- bottomtab-Ordner
+- kompletter data-Ordner
+- kompletter screens-Ordner
+- kompletter styles-Ordner
+- App.js-Datei
+- app.json teilweise (Die Daten zwischen den Gänsefüsschen habe ich eingeben müssen, der Rest ist von Expo/React Native)
+- QuellenundLinks.js-Datei
+
+Die Dateien, mit welchen ich nichts zu tun hatte, jedoch zu meiner App gehören:
+- .gitignore-Datei
+- babel.config-Datei
+- package.json-Datei
+
+Dateien, welche ich nicht hochladen konnte:
+- .expo-Ordner (zu viele Dateien, alle von Expo erstellt)
+- .expo-shared-Ordner (beinhaltet Daten meines Computers (nicht sicher zum Hochladen), von Expo erstellt)
+- node_modules-Ordner (zu viele Dateien, alle von Expo erstellt)
+- web-build-Ordner (beinhaltet Daten meines Computers (nicht sicher zum Hochladen), von Expo erstellt)
+- package-lock.json (beinhaltet Daten meines Computers (nicht sicher zum Hochladen), von React Native erstellt)
+
+
+Alle Quellen und Links, welche ich für meine Fitness-App verwendet und gebraucht habe, findet man in der QuellenundLinks.js-Datei.
