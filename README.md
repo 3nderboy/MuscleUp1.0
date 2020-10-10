@@ -6,6 +6,8 @@ Informationen:
 Vielen Dank an alle, welche sich diesen Code anschauen und sich Zeit nehmen, diesen zu verstehen und zu betrachten.
 Der Code, so wie er hier in diesem Branch gefunden werden kann, ist der fertige Code meiner App, welche ich für meine Maturarbeit 2020 abgeben werde.
 Deswegen sollte nur dieser Code hier betrachtet und bewertet werden, die anderen Braches habe ich zur Sicherung und für mich als Hilfe erstellt. 
+Die anderen Branches (master und testing1 bis testing41) sind der Weg meiner Fitness-App. Der Code in dem master-branch war der erste Code, welchen ich hier
+hochgeladen habe.
 
 
 Aufbau dieses Branches:
