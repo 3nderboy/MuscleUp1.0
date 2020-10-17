@@ -36,4 +36,32 @@ Dateien, welche ich nicht hochladen konnte:
 - package-lock.json (beinhaltet Daten meines Computers (nicht sicher zum Hochladen), von React Native erstellt)
 
 
+Orietierung:
+Was wird in welcher Datei, welche von mir geschrieben wurde, ausgeführt?
+- App.js:                 Die Datei führt den kompletten Code der anderen Dateien aus und regelt die Schriftart der ganzen App
+- bottomtab1.js:          Diese Datei ist für die einzelnen Screens, StackScreens, der BottomTabBar und der TopTabBar zuständig
+- buttonCard.js:          Diese Datei ist für das Design der drei Buttons ''Zuhause'', ''Mit Hanteln'' und ''Mit Geräten'' zuständig
+- buttons.js:             Diese Datei ist für das Design aller Buttons zuständig
+- cards.js                Diese Datei ist für das Design aller Cards zuständig
+- globalstyle.js:         Diese Datei ist für die Schriftgrössen und Schriftfarben und die Abstände zuständig
+- HauptBilderStyle.js:    Diese Datei ist für die fünf Bilder innerhalb der Übungs-Card zuständig
+- modals.js:              Diese Datei ist für die Grösse und das Design der einzelnen Modals zuständig
+- uebungencard.js:        Diese Datei ist für das Aussehen der Übungs-Cards zuständig
+- feed.js:                Diese Datei ist für den kompletten Aufbau des Feed-Screens zuständig
+- tipps.js:               Diese Datei ist für den kompletten Aufbau des Tipps-Screens zuständig
+- uebungen.js:            Diese Datei ist für den kompletten Aufbau des Übungen-Screens zuständig
+- workouts.js:            Diese Datei ist für den kompletten Aufbau des Workouts-Screens zuständig
+- createWorkout.js:       Diese Datei ist für das Modal zu erstellen der eigenen Workouts zuständig
+- Details.js:             Diese Datei ist für den About-Screen zuständig
+- InfoÜbungsScreen.js:    Diese Datei ist für den Aufbau des InfoÜbungsScreens zuständig
+- InfoWorkoutScreen.js:   Diese Datei ist für den Aufbau des InfoWorkoutScreens zuständig
+- OwnWorkout.js:          Diese Datei ist für den Aufbau des OwnWorkout-Screens zuständig
+- Wabsolvieren.js:        Diese Datei ist für den Aufbau des Workout-absolvieren-Screens zuständig
+- alleBilder.js:          In dieser Datei werden alle Bilder (ausser die Bilder der Übungen) deklariert
+- alleTipps.js:           In diser Datei befinden sich alle Tipps
+- alleÜbungenBilder.js:   In dieser Datei werden alle Bilder der einzelnen Übungen deklariert
+- alleUebungen.js:        In dieser Datei befinden sich die Daten aller Übungen
+- alleWorkouts.js:        In dieser Datei befinden sich die Daten aller Workouts
+
+
 Alle Quellen und Links, welche ich für meine Fitness-App verwendet und gebraucht habe, findet man in der QuellenundLinks.js-Datei.
